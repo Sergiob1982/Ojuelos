@@ -13,7 +13,7 @@ Binarios de firmware para el sistema de puerta comunitaria **RESIDENCIAL OJUELOS
 
 | Archivo | Versión | Descripción |
 |---------|---------|-------------|
-| `emisor.bin` | v1.1 | Firmware del emisor (código OTA 2) |
+| `emisor.bin` | v1.2 | Firmware del emisor (código OTA 3) — corrige el buffer de recepción LoRa (64→255 B) que impedía recibir el gatillo OTA y el registro de accesos |
 
 URL directa (raw) para el campo de la página de actualizaciones:
 
