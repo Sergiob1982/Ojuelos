@@ -13,7 +13,7 @@ Binarios de firmware para el sistema de puerta comunitaria **RESIDENCIAL OJUELOS
 
 | Archivo | Versión | Descripción |
 |---------|---------|-------------|
-| `emisor.bin` | v1.5 | Firmware del emisor (código OTA 6) — volcado con aviso de lista incompleta, auto-reintento acumulativo y Reemplazar solo con lista completa |
+| `emisor.bin` | v1.0 (OTA 7) | Firmware del emisor — accesos con auto-reintento y aviso de incompleto; etiqueta visible reiniciada a 1.0 (el codigo OTA interno sigue subiendo) |
 
 URL directa (raw) para el campo de la página de actualizaciones:
 
