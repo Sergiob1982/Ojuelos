@@ -13,7 +13,7 @@ Binarios de firmware para el sistema de puerta comunitaria **RESIDENCIAL OJUELOS
 
 | Archivo | Versión | Descripción |
 |---------|---------|-------------|
-| `emisor.bin` | v1.3 | Firmware del emisor (código OTA 4) — añade "Pedir lista a la puerta" (leer usuarios+móviles del receptor y reconciliar); incluye el fix del buffer 64→255 |
+| `emisor.bin` | v1.4 | Firmware del emisor (código OTA 5) — respuestas del receptor (volcado y accesos) en trozos cortos x4 copias para enlaces flojos |
 
 URL directa (raw) para el campo de la página de actualizaciones:
 
